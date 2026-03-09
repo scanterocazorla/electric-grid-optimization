@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# BlueJ
+*.ctxt
+package.bluej
+doc/
+
+# OS files
+.DS_Store
+Thumbs.db
