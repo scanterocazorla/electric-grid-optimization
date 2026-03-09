@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NodoLEG
+comment1.params=e\ n
+comment1.target=NodoLEG(java.lang.Object,\ librerias.esctructurasDeDatos.lineales.NodoLEG)
+comment2.params=dato
+comment2.target=NodoLEG(java.lang.Object)
+numComments=3
